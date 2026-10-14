@@ -1,4 +1,4 @@
-# jtty
+# jtty-cuf
 
 A small C++20 library for **JTTY**, a text-over-audio digital mode: it encodes text into audio and decodes every message found in a recording. It has no dependencies, does no I/O and keeps no global state, so it can sit behind any audio source.
 
